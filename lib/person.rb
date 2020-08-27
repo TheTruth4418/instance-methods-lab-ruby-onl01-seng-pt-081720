@@ -1,6 +1,6 @@
 class Person
   def walk
-    "The Person is walking"
+  puts  "The Person is walking"
   end
 
   def talk
